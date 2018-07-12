@@ -8,3 +8,4 @@ def name
   name = "Kevin"
   
   def name=(new_name)
+    name=new_name
