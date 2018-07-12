@@ -5,7 +5,7 @@ def initialize("dog_name" , "dogs_breeds")
  end
 
 def name=("dogs_names", "dogs_breeds" ="Mutt")
-  name=
+  name=dogs_names
 
 def name=(new_name)
  
