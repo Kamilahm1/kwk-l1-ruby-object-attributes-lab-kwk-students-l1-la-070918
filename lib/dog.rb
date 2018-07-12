@@ -5,7 +5,7 @@ class Dog
 end
 
 def name
-  name = 'Dill"
+  name = "Dill"
 
 def name= (new_name)
  name=new_name
