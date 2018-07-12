@@ -1,5 +1,5 @@
 class Person
-  def initalize("name", "job")
+def initalize("name", "job")
 @name=name
 @job=job
 end
@@ -7,6 +7,7 @@ end
 def name
   name = "Kevin"
   
-  def name=(new_name)
+def name=(new_name)
     name=new_name
+ end
 end
