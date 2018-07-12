@@ -5,4 +5,6 @@ class Person
 end
 
 def name
-  name = Kevin
+  name = "Kevin"
+  
+  
