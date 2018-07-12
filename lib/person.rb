@@ -7,6 +7,5 @@ def initialize("name")
 def name
   name = "Kevin"
   
-
  end
 end
