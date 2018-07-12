@@ -5,7 +5,7 @@ def initalize(name,job)
 end
 
 def name
-@name = "Beyonce"
+@name = "Kevin"
 end
 
 def name=(new_name)
