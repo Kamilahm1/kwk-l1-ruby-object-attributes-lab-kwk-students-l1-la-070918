@@ -9,7 +9,8 @@ def name=("dogs_names", "dogs_breeds" ="Mutt")
   @breed=dogs_breeds
 end
 
-def name=(new_name)
+def name
+  
  
  end
 end
