@@ -7,5 +7,5 @@ end
 def name
   name = 'Dill"
 
-def name= ()
+def name= (new_name)
  
