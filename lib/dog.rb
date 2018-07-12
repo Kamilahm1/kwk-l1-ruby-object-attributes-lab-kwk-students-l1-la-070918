@@ -10,7 +10,7 @@ def name=("dogs_names", "dogs_breeds" ="Mutt")
 end
 
 def name
-  
+  @name
  
  end
 end
