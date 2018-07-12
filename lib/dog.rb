@@ -7,3 +7,6 @@ end
 def name
   name = 'Dill"
 
+def name
+ @name = "Dill"
+end
