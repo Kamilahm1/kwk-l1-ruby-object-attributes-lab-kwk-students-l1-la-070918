@@ -5,7 +5,7 @@ def initalize(name,breed)
 end
 
 def name
- @name = "Fido"
+ @name = "Dil"
 end
 
 def name=(new_name)
