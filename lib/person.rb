@@ -7,4 +7,4 @@ end
 def name
   name = "Kevin"
   
-  def name=()
+  def name=(new_name)
