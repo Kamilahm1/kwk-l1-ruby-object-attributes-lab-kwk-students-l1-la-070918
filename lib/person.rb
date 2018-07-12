@@ -7,7 +7,6 @@ def initialize("name", "job")
 def name
   name = "Kevin"
   
-def name=(new_name)
-  name=new_name
+
  end
 end
