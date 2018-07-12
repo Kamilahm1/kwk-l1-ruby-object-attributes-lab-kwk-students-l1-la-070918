@@ -3,3 +3,5 @@ class Person
 @name=name
 @job=job
 end
+
+def name
